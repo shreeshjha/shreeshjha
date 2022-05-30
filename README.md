@@ -1,5 +1,4 @@
 [<img src="https://raw.githubusercontent.com/shreeshjha/shreeshjha/master/intro.gif" width="1100" height="300" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Shreesh Jha)|https://shreeshjha.github.io/)"/>](https://shreeshjha.github.io/)
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00df00)
 <div align="center">
    <h1>Hi, I'm <a href="">Shreesh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
    
