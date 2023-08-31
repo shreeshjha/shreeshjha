@@ -13,7 +13,7 @@
  </p>
  
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shreesh Kumar Jha | 💻 Sophomore | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shreesh Kumar Jha | 💻 Senior | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ## 📘: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
