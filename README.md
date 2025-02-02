@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="100%" alt="Systems Engineering & HPC" title="Systems Engineering & HPC" />](https://shreeshjha.github.io/)
+[<img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="1100" height="300" alt="Systems Engineering & HPC" title="Systems Engineering & HPC" />](https://shreeshjha.github.io/)
 
 <div align="center">
   <h1>Hi, I'm <a href="https://shreeshjha.github.io/">Shreesh Kumar Jha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
@@ -36,7 +36,8 @@ I also enjoy sharing my learnings through blog posts and project write-ups.
 Stay tuned for more insights from the intersection of hardware efficiency and software innovation!
 
 ## 🎨 Some Visual Fun
-[<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd3eDJzZnRsZGxodHZseHk1Z2RwcDlyejZvZDNqZjVxdnpsbTVldiZlcD12MV9bnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9y14UDMbHDZha8c5s5/giphy.gif" width="100%" alt="When Systems Get Silly" title="When Systems Get Silly" />](https://shreeshjha.github.io/)
+[<img src="https://raw.githubusercontent.com/shreeshjha/shreeshjha/master/giphy.gif" width="1100" height="300" alt="Systems Engineering & HPC" title="Systems Engineering & HPC" />](https://shreeshjha.github.io/)
+
 
 ## 📊 GitHub Stats
 A snapshot of my GitHub activity and language preferences:
